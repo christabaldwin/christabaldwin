@@ -1,7 +1,7 @@
 Hi 👋 My name is Christa Baldwin
 ================================
 
-Application Engineer
+Senior Application Engineer
 --------------------
 
 I am an application engineer whose passions are to learn new technologies and to embrace better ways to work and think. I enjoy stretching to develop new skills and to optimize my existing skills. I love leading by example, cultivating an environment of growing myself and those around me and celebrating success. My particular interests include DevOps, noSQL, web services development and automation.
