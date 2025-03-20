@@ -19,7 +19,7 @@ I am an application engineer whose passions are to learn new technologies and to
 [![https://gradle.org/](https://skillicons.dev/icons?i=gradle&theme=dark "gradle")](https://gradle.org/)
 [![https://www.jenkins.io/](https://skillicons.dev/icons?i=jenkins&theme=dark "jenkins")](https://www.jenkins.io/)
 [![https://www.linux.org/](https://skillicons.dev/icons?i=linux&theme=dark "linux")](https://www.linux.org/)
-[![https://www.python.org/](https://skillicons.dev/icons?i=oy&theme=dark "py")](https://www.python.org/)
+[![https://www.python.org/](https://skillicons.dev/icons?i=py&theme=dark "py")](https://www.python.org/)
 
 ### Social
 
